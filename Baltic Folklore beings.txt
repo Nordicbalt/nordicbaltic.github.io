@@ -68,15 +68,6 @@ These central figures form the pantheon's backbone, with strong folklore attesta
 - **Limitations**: Cannot alter fates once set; bound by cosmic order; no direct combat or elemental powers.
 - **Expanded Info**: Backstory: Woven by Dievas as fate's architect. Motivations: Maintain balance, no favoritism. Attributes: Precognition, thread-binding. Relationships: Sister to Giltinė (death completes fate), Dalia (fortune aspect). Alliance with Deivės Valdytojos (collective weavers—e.g., Gadintoja destructive, Sergėtoja protective). Rivalry with Velnias (twists threads). Myths: "Birth Pronouncement"—sets lifespans. Interactions: Midwives invoke; horror—omens as prophetic nightmares.
 
-#### Gabija (Goddess of sacred hearth fire, home, family; daughter of Dievas)
-- **Personality**: Warm, protective, familial; gentle but fierce if her fire is disrespected, symbolizing home harmony, with a purifying wrath.
-- **Materialization in Real Life**: Hearth flames; appears as a red hen or woman in fire, requiring careful tending.
-- **Symbols**: Bird - hen (home protector); Animal - cat (hearth companion); Item - fireplace poker; Plant - rue (purifying herb).
-- **Design**: Young woman with flame-red hair in a bun, amber eyes, simple red dress with ember patterns, soot marks on her cheeks from tending fires.
-- **Powers**: Protecting homes from disaster, blessing family bonds, purifying with fire.
-- **Limitations**: Confined to hearths; extinguished by water or neglect; cannot venture far from homes.
-- **Expanded Info**: Backstory: Born from Dievas's spark to warm creation. Motivations: Foster unity, avenge neglect. Attributes: Flame empathy, home wards. Relationships: Daughter of Dievas; ally to Dimstipatis (fire guard), Šeimos dievas (family). Rivalry with Bangpūtys (storms quench fires). Myths: "Stolen Flame"—retrieves from Velnias. Interactions: Evening coverings prevent escapes; horror—untended fires become incendiary poltergeists.
-
 #### Giltinė (Goddess of death, plague; the Reaper; sister of Laima)
 - **Personality**: Inevitable, cold, impartial; not evil but necessary, sometimes merciful in quick deaths, with a detached empathy for the dying.
 - **Materialization in Real Life**: Plagues or natural deaths; appears as a skeletal woman with scythe.
@@ -620,4 +611,5 @@ Lower-tier, folkloric entities interacting with humans, often in tales of bargai
 - **Design**: Translucent, resembling deceased with pale features.
 - **Powers**: Guidance from beyond, warnings.
 - **Limitations**: Bound to unresolved issues; fade with time.
+
 - **Expanded Info**: Backstory: Giltinė's escorted. Motivations: Resolve unfinished. Attributes: Dream visits. Relationships: Ally to Gulbis/Krikštas (guardians). Myths: "Ancestral Haunt." Interactions: Candle vigils; horror—unrested poltergeists.
