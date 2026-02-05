@@ -10,7 +10,7 @@ This is the fully expanded compilation of the Lithuanian (and broader Baltic) my
 
 Milda has been moved from Spirits to Major/Core Deities, as she fits as a goddess of emotional domains (love/passion), paralleling figures like Saulė (nurturing) or Laima (fate). Her debated authenticity is noted, but expanded as a romantic counterpart in the pantheon.
 
-#### Major/Core Deities
+#### Major/Core Deities 
 
 These central figures form the pantheon's backbone, with strong folklore attestation. They oversee cosmic order, often in familial alliances or rivalries.
 
